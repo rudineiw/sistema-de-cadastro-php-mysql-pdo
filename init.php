@@ -1,9 +1,9 @@
 <?php
 // Dados de conexão com o banco de dados
 $host = 'localhost';
-$dbname = 'ultimatephp';
-$user = 'root';
-$password = '';
+$dbname = 'cadastro_usuarios';
+$user = 'seu_usuario';
+$password = 'sua_senha';
 
 try {
     // Conexão com o banco de dados usando PDO
